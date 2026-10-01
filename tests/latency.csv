@@ -1,0 +1,13 @@
+endpoint,status,latency_ms
+/api/users,200,12.4
+/api/users,200,15.1
+/api/orders,200,48.0
+/api/orders,500,230.7
+/api/users,200,11.9
+/api/search,200,95.2
+/api/search,200,102.8
+/api/users,200,13.3
+/api/orders,200,51.6
+/api/search,200,88.4
+/api/users,200,14.0
+/api/orders,200,46.2
